@@ -38,7 +38,7 @@
 
     <properties>
         <bootique.version>${project.version}</bootique.version>
-        <swagger.version>1.5.20</swagger.version>
+        <swagger.version>1.5.9</swagger.version>
     </properties>
 
     <scm>

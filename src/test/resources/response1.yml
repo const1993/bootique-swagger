@@ -8,9 +8,9 @@ paths:
       responses:
         200:
           description: "successful operation"
-          headers: {}
           schema:
             type: "string"
+          headers: {}
   /sub/{id}:
     get:
       operationId: "subget"
@@ -23,6 +23,6 @@ paths:
       responses:
         200:
           description: "successful operation"
-          headers: {}
           schema:
             type: "string"
+          headers: {}
